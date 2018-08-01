@@ -1,0 +1,4 @@
+<resources>
+    <string name="HelloXamerin">Hellow World, I am Xamarin!</string>
+    <string name="ApplicationName">helloWorld</string>
+</resources>
